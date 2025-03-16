@@ -1,11 +1,8 @@
+# Website
+https://discord.com/channels/@me/1035972913892966482/1350832093931769947
+
 # Requirements
-streamlit
-tensorflow
-pandas
-numpy
-sklearn.
-matplotlib
-seaborn
+streamlit, tensorflow, pandas, numpy, scikit-learn, matplotlib, seaborn
 
 # Starting project
 ```
