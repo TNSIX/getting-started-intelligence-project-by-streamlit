@@ -1,5 +1,5 @@
 # Website
-https://discord.com/channels/@me/1035972913892966482/1350832093931769947
+https://getting-started-intelligence-project-by-app-g935jyktc2ocvrqsmq.streamlit.app/
 
 # Requirements
 streamlit, tensorflow, pandas, numpy, scikit-learn, matplotlib, seaborn
